@@ -31,5 +31,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Assignment 3 Chunk
 
 ```{r out.width = '60%', echo = FALSE, fig.align = "center"} 
-knitr::include_graphics("figs/yourfigure.png")
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/7/7c/Monash_University_logo.svg")
 ```
